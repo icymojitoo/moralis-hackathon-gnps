@@ -72,7 +72,7 @@ export default function CreatorDashboard() {
                         <p>{nft.description}</p>
                         <div className='card-actions justify-end'>
                             <p className='text-xl font-bold text-primary'>
-                                {nft.price} BNB
+                                {nft.price} MATIC
                             </p>
                         </div>
                     </div>
