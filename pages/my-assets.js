@@ -71,7 +71,7 @@ export default function MyAssets() {
                         <p>{nft.description}</p>
                         <div className='card-actions justify-end'>
                             <p className='text-xl font-bold text-primary'>
-                                {nft.price} MATIC
+                                {nft.price} MATICs
                             </p>
                         </div>
                     </div>
